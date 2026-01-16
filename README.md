@@ -16,7 +16,7 @@ Si llego al 8??
 ## Guia para gente que quiera usar en su estado actual
 > ESTA VERSION ESTA DISEÑADA PARA QUE SOLO SE USE EL ALGORITMO EVOLUTIVO PRINCIPAL
  1. Instalar las librerias necesarias
- 2. El algoritmo principal esta dentro del archivo **Test_Agent_explorer.py** 
+ 2. El algoritmo principal esta dentro del archivo **Stuff_Algoritmos/TA02_Evolutivo_Basico.py** 
  3. En la parte debajo del codigo de la clase se encuentra un uso para pruebas
 
 ### class Evolutivo()
