@@ -23,7 +23,7 @@ Si llego al 8??
 > ADVERTENCIA: Puede que dado mapas particularmente grandes y habitados, puede que el algoritmo falle debido a el limite de recursividad de python.
 
 
-| Parametro | |Descripcion | Tipo (datos permitidos) |
+| Parametro | Descripcion | Tipo (datos permitidos) |
 | :---: | :--- | :--: |
 | **width** | Longitud Horizontal del mapa | int |
 | **height** | Longitud Vertical del mapa | int |
@@ -33,11 +33,3 @@ Si llego al 8??
 | **gen_max** | Numero de generaciones a iterar | int |
 | **seed** | Semilla para las funciones aleatorias | string |
 | **agente_lados** | determina si el agente evaluativo explora 4 u 8 lados | int(4 u 8) |
- 
-
-| Platform | Version | Notes |
-| :--- | :--- | :--- |
-| **Node.js** | 18.0 or higher | Required for runtime. |
-| **npm** | 9.0 or higher | Package manager (yarn also supported). |
-| **Python** | 3.8 - 3.11 | Required for certain data scripts. |
-| **Browser** | Chrome 115+, Firefox 110+ | For web interface compatibility. |
