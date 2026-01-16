@@ -22,14 +22,15 @@ Si llego al 8??
 ### class Evolutivo()
 > ADVERTENCIA: Puede que dado mapas particularmente grandes y habitados, puede que el algoritmo falle debido a el limite de recursividad de python.
 
- | Parametro | |Descripcion | Tipo (datos permitidos) |
- | :---: | :--- | :--: |
- | **width** | Longitud Horizontal del mapa | int |
- | **height** | Longitud Vertical del mapa | int |
- | **p_mapa** | Probabilidad de que un espacio sea habitable | float *(0-1)* |
- | **poblacion:** | Numero de individuos/soluciones que se exploraran a la vez | int |
- | **p_mutacion** | Probabilidad de que un dato mute | float *(0-1)* |
- | **gen_max** | Numero de generaciones a iterar | int |
- | **seed** | Semilla para las funciones aleatorias | string |
- | **agente_lados** | determina si el agente evaluativo explora 4 u 8 lados | int(4 u 8) |
+
+| Parametro | |Descripcion | Tipo (datos permitidos) |
+| :---: | :--- | :--: |
+| **width** | Longitud Horizontal del mapa | int |
+| **height** | Longitud Vertical del mapa | int |
+| **p_mapa** | Probabilidad de que un espacio sea habitable | float *(0-1)* |
+| **poblacion:** | Numero de individuos/soluciones que se exploraran a la vez | int |
+| **p_mutacion** | Probabilidad de que un dato mute | float *(0-1)* |
+| **gen_max** | Numero de generaciones a iterar | int |
+| **seed** | Semilla para las funciones aleatorias | string |
+| **agente_lados** | determina si el agente evaluativo explora 4 u 8 lados | int(4 u 8) |
  
