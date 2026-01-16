@@ -23,6 +23,7 @@ Si llego al 8??
 > ADVERTENCIA: Puede que dado mapas particularmente grandes y habitados, puede que el algoritmo falle debido a el limite de recursividad de python.
 
 
+#### Parametros de la clase Evolutivo()
 | Parametro | Descripcion | Tipo (datos permitidos) |
 | :---: | :--- | :--: |
 | **width** | Longitud Horizontal del mapa | int |
@@ -33,3 +34,10 @@ Si llego al 8??
 | **gen_max** | Numero de generaciones a iterar | int |
 | **seed** | Semilla para las funciones aleatorias | string |
 | **agente_lados** | determina si el agente evaluativo explora 4 u 8 lados | int(4 u 8) |
+
+### Funciones de la clase Evolutivo()
+
+| **Funcion** | Descripcion | Parametros |
+| :---: | :--- : | :---: |
+| **.correr()** | Ejecuta el algoritmo | Ninguno |
+| **.evaluar | Una vez ejecutado el algoritmo una vez, este evalua los resultados finales (Si no se realiza la funcion correr al menos 1 vez, se puede incluir un parametro adicional para mostrar los resultados completos o parciales)| string ("none","show", "full") |
