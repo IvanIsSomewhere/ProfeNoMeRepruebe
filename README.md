@@ -17,7 +17,7 @@ Si llego al 8??
 > ESTA VERSION ESTA DISEÑADA PARA QUE SOLO SE USE EL ALGORITMO EVOLUTIVO PRINCIPAL
  1. Instalar las librerias necesarias
  2. El algoritmo principal esta dentro del archivo **Stuff_Algoritmos/TA02_Evolutivo_Basico.py** 
- 3. En la parte debajo del codigo de la clase se encuentra un uso para pruebas
+ 3. En la parte debajo del codigo de la clase se encuentra un uso para pruebas **a partir de la linea 370**
 
 ### class Evolutivo()
 > ADVERTENCIA: Puede que dado mapas particularmente grandes y habitados, puede que el algoritmo falle debido a el limite de recursividad de python.
