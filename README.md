@@ -34,3 +34,10 @@ Si llego al 8??
 | **seed** | Semilla para las funciones aleatorias | string |
 | **agente_lados** | determina si el agente evaluativo explora 4 u 8 lados | int(4 u 8) |
  
+
+| Platform | Version | Notes |
+| :--- | :--- | :--- |
+| **Node.js** | 18.0 or higher | Required for runtime. |
+| **npm** | 9.0 or higher | Package manager (yarn also supported). |
+| **Python** | 3.8 - 3.11 | Required for certain data scripts. |
+| **Browser** | Chrome 115+, Firefox 110+ | For web interface compatibility. |
