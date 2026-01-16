@@ -37,7 +37,7 @@ Si llego al 8??
 
 ### Funciones de la clase Evolutivo()
 
-| **Funcion** | Descripcion | Parametros |
-| :---: | :--- : | :---: |
-| **.correr()** | Ejecuta el algoritmo | Ninguno |
-| **.evaluar | Una vez ejecutado el algoritmo una vez, este evalua los resultados finales (Si no se realiza la funcion correr al menos 1 vez, se puede incluir un parametro adicional para mostrar los resultados completos o parciales)| string ("none","show", "full") |
+| **Función** | Descripción | Parámetro | Valores |
+| :---: | :--- | :--- | :---: |
+| **.correr()** | Ejecuta el algoritmo principal. | — | — |
+| **.evaluar()** | Evalúa y muestra los resultados del algoritmo. | `modo` (opcional) | `"none"`, `"show"`, `"full"` |
